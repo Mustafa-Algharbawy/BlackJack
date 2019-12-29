@@ -3,10 +3,7 @@
 //
 #include <iostream>
 #include "game_logic.h"
-Deck deck;//tkbeeeeeeeeeeeeer
-// mt3mlsh 7aga global tany w belzat fe .h
-// ok but now ana m7tag el class da fe kza function a3mlo ezay ?
-//
+Deck deck;
 void Match()
 {
     std::string match_result {"Tourament Complete\nYou finished this tourament with "};

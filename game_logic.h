@@ -8,12 +8,6 @@
 
 #include "Deck.h"
 
- // enta 7atet sa6r zy da fe file kman
-//laaa w 23dt adwar ml2tsh
-// ana shakek en mynf3sh a7oto hina
-//3lshan lma bgeb ek incloude fe kza file tany b create el
-// aywa , lma t include el file da fe kza mkan bt3ml mno ns5teen
-//tyb swani
 void Match();
 
 int round();

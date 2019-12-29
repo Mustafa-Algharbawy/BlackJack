@@ -54,20 +54,7 @@ std::string Card::printCard() const
             break;
     }
 
-    /*switch (m_suit) {
-        case CardSuit::SUIT_CLUB:
-            return 'C';
-            break;
-        case CardSuit::SUIT_DIAMOND:
-            return 'D';
-            break;
-        case CardSuit::SUIT_HEART:
-            return 'H';
-            break;
-        case CardSuit::SUIT_SPADE:
-            return 'S';
-            break;
-    }*/
+  
 }
 
 int Card::getCardValue() const
